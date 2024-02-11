@@ -1,0 +1,17 @@
+{
+  "name": "vercel-nodejs-backend",
+  "version": "1.0.0",
+  "description": "https://kanakkholwal.medium.com/how-to-deploy-your-node-js-backend-on-vercel-a-step-by-step-guide-21796db74601",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "index.js": "^0.0.3",
+    "touch": "^3.1.0"
+  }
+}
